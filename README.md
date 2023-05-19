@@ -1,4 +1,4 @@
-# Python & JAVA Solutions for Leetcode (inspired by [haoel's leetcode](https://github.com/haoel/leetcode))
+# Python Solutions for Leetcode (inspired by [haoel's leetcode](https://github.com/haoel/leetcode))
 
 Remember solutions are only solutions to given problems. If you want full study checklist for code & whiteboard interview, please turn to [jwasham's coding-interview-university](https://github.com/jwasham/coding-interview-university).
 
