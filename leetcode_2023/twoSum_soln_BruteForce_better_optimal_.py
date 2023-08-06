@@ -49,3 +49,4 @@ class Solution:
                return [nums_hash[complement], i]
            nums_hash[nums[i]] = i
        return []
+   
